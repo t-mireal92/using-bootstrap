@@ -1,0 +1,46 @@
+body {background-color: #D2691E}
+#welcome-Section{
+	background-color: #B22222;
+    text-align: align:center;
+}
+#two{
+	text-align: center;
+}
+
+#three{
+		text-align: center;
+}
+
+#four{
+	text-align: center;
+}
+#five{
+	text-align: center;
+}
+#six{
+	text-align: center;
+}
+#seven{
+	text-align: center;
+}
+#projects{
+	text-align: center;
+}
+.Hello-Git{
+	font-weight: bold;
+}
+.My-First-PR{
+	font-weight: bold;
+}
+#projects ul {
+	list-style-type: none;
+}
+#navbar{
+	text-align: center;
+}
+.welcome-section ul {
+	list-style-type: none;
+}
+#list ul{
+	list-style-type: none;
+}
